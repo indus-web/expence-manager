@@ -1,4 +1,4 @@
-# expence-manager (Bank Statement/Transaction Manager)
+# Expence-manager (Bank Statement/Transaction Manager)
 
 ![Bank Statement/Transaction Manager Logo](link-to-your-logo.png)
 
